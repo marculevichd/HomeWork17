@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/second_activity_first_item_close_application"
+        android:title="@string/close_application"/>
+    <item
+        android:id="@+id/second_activity_second_item_return_on_first_activity"
+        android:title="@string/return_on_first_activity"/>
+
+</menu>

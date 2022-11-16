@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">HomeWork18</string>
+    <string name="open_second_activity">Open second activity and download text on text view</string>
+    <string name="open_second_activity_and_show_text">Open second activity and show text in title</string>
+    <string name="close_app">Close app</string>
+    <string name="smth_happends">smth happends</string>
+    <string name="close_application">Close application</string>
+    <string name="return_on_first_activity">Return on first activity</string>
+    <string name="bold">bold</string>
+    <string name="italic">italic</string>
+    <string name="nullInString">в строку передан null</string>
+    <string name="click">Clicked second item</string>
+    <string name="noTitle">title не установлен</string>
+    <string name="use_toolbar">Use toolBar</string>
+
+
+</resources>

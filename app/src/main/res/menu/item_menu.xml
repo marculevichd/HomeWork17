@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/first_item_open_second_activity"
+        android:title="@string/open_second_activity"/>
+    <item
+        android:id="@+id/second_item_open_second_activity_and_show_text"
+        android:title="@string/open_second_activity_and_show_text"/>
+    <item
+        android:id="@+id/third_item_close_app"
+        android:title="@string/close_app"/>
+    <item
+        android:id="@+id/fourth_item_smth_happends"
+        android:title="@string/smth_happends"/>
+
+</menu>
